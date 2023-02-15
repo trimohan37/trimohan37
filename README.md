@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trimohan37
 - 👀 I’m interested in learning coding 
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mohankashyap789@gmail.com
 
